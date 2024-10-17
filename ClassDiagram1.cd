@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Modul_6.Add_Delete_Book">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAACAAABBAQAOkIAACAAAAAAAAAACAAABAAAA=</HashCode>
+      <FileName>Add(Delete)Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modul_6.Library">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AQGAYAQQDCIAEBhgAAGSABACAAgIIASAAEZAgUAEAMA=</HashCode>
+      <FileName>Library.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modul_6.Add_Delete_Client">
+    <Position X="6.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAMAAAAACAAARRCAICAAAACAAAAAgAAAAAAAAAEAAA=</HashCode>
+      <FileName>Add(Delete)Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modul_6.AllClients">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACIAABBAAACAAAACAAAAAAAAAAAAAQAAIEA=</HashCode>
+      <FileName>AllClients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modul_6.Issue_Book">
+    <Position X="8.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAABIACAAABBAAACgICACAAEAgQAEAgQAAAEBAAA=</HashCode>
+      <FileName>Issue_Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modul_6.Issued_Book">
+    <Position X="12" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAsAAAAAgCIABJpAAECgIAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Issued_Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modul_6.всевыданныекниги">
+    <Position X="6" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACIAABBAAACAAAACAAgAAAAAgAABAAAAAAA=</HashCode>
+      <FileName>всевыданныекниги.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modul_6.Program">
+    <Position X="8.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modul_6.DataBase">
+    <Position X="10.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAEAAAAIAAABAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

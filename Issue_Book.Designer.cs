@@ -45,7 +45,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(29, 203);
+            this.label4.Location = new System.Drawing.Point(29, 191);
             this.label4.Margin = new System.Windows.Forms.Padding(20);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(95, 18);
@@ -89,7 +89,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Berlin Sans FB", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(29, 261);
+            this.label5.Location = new System.Drawing.Point(29, 249);
             this.label5.Margin = new System.Windows.Forms.Padding(20);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(106, 18);
@@ -99,7 +99,7 @@
             // button_Issue
             // 
             this.button_Issue.Font = new System.Drawing.Font("PMingLiU-ExtB", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button_Issue.Location = new System.Drawing.Point(32, 303);
+            this.button_Issue.Location = new System.Drawing.Point(32, 291);
             this.button_Issue.Name = "button_Issue";
             this.button_Issue.Size = new System.Drawing.Size(500, 36);
             this.button_Issue.TabIndex = 19;
@@ -137,7 +137,7 @@
             // dateTimePicker_Issue
             // 
             this.dateTimePicker_Issue.CalendarFont = new System.Drawing.Font("Nirmala UI", 12F);
-            this.dateTimePicker_Issue.Location = new System.Drawing.Point(158, 201);
+            this.dateTimePicker_Issue.Location = new System.Drawing.Point(158, 189);
             this.dateTimePicker_Issue.Name = "dateTimePicker_Issue";
             this.dateTimePicker_Issue.Size = new System.Drawing.Size(374, 20);
             this.dateTimePicker_Issue.TabIndex = 23;
@@ -145,7 +145,7 @@
             // dateTimePicker_Return
             // 
             this.dateTimePicker_Return.CalendarFont = new System.Drawing.Font("Nirmala UI", 12F);
-            this.dateTimePicker_Return.Location = new System.Drawing.Point(158, 261);
+            this.dateTimePicker_Return.Location = new System.Drawing.Point(158, 249);
             this.dateTimePicker_Return.Name = "dateTimePicker_Return";
             this.dateTimePicker_Return.Size = new System.Drawing.Size(374, 20);
             this.dateTimePicker_Return.TabIndex = 24;
@@ -154,7 +154,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(550, 351);
+            this.ClientSize = new System.Drawing.Size(550, 340);
             this.Controls.Add(this.dateTimePicker_Return);
             this.Controls.Add(this.dateTimePicker_Issue);
             this.Controls.Add(this.comboBox_AuthorBook);

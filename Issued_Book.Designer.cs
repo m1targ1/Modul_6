@@ -66,6 +66,7 @@
             this.dataGridView_ClientBookIssue.Location = new System.Drawing.Point(12, 88);
             this.dataGridView_ClientBookIssue.Name = "dataGridView_ClientBookIssue";
             this.dataGridView_ClientBookIssue.Size = new System.Drawing.Size(776, 310);
+            this.dataGridView_ClientBookIssue.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView_ClientBookIssue.TabIndex = 3;
             // 
             // button_Return
@@ -78,6 +79,7 @@
             this.button_Return.TabIndex = 20;
             this.button_Return.Text = "Вернуть книгу";
             this.button_Return.UseVisualStyleBackColor = true;
+            this.button_Return.Click += new System.EventHandler(this.button_Return_Click);
             // 
             // comboBoxFIOCLient
             // 
@@ -97,6 +99,7 @@
             this.button_Checked.TabIndex = 22;
             this.button_Checked.Text = "Просмотр";
             this.button_Checked.UseVisualStyleBackColor = true;
+            this.button_Checked.Click += new System.EventHandler(this.button_Checked_Click);
             // 
             // Issued_Book
             // 
@@ -112,6 +115,7 @@
             this.Name = "Issued_Book";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Выданные книги";
+            this.Load += new System.EventHandler(this.Issued_Book_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_ClientBookIssue)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
