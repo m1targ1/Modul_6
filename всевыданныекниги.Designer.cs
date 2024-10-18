@@ -76,6 +76,7 @@
             this.Controls.Add(this.label_Count);
             this.Controls.Add(this.label1);
             this.Name = "всевыданныекниги";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Выданные книги";
             this.Load += new System.EventHandler(this.всевыданныекниги_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
